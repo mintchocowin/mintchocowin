@@ -56,7 +56,7 @@
 
     <p>
     <div align="center">
-    <b>🎢 Git-Hub Stats </b>
+    🎢 Git-Hub Stats
     
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintchocowin&layout=compact)

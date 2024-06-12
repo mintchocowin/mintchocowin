@@ -42,7 +42,7 @@
     <br/>
 <p>
     <div align="center">
-        <b>🚀 # Cloud & Deploy 🚀</b>
+        <b>🚀Cloud & Deploy </b>
         <br/>
         <br/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 

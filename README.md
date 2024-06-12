@@ -54,8 +54,7 @@
 </p>
     <br/>
 
-    <p>
-    <div align="center">
+   
     🎢 Git-Hub Stats
     
 <!--

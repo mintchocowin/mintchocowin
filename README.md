@@ -1,3 +1,4 @@
+<body style="background-color: #75e0d8;">
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20MJ%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=mintchoco%20will%20conquer%20the%20world!!&descAlignY=51&descAlign=62"/>
 </p>
@@ -52,3 +53,4 @@
     </div>
 </p>
     <br/>
+    </body>

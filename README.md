@@ -41,11 +41,12 @@
 </p>
     <br/>
 <p>
-    <div align="center">
+    <div align="center">       
         <b>🚀Cloud & Deploy </b>
         <br/>
         <br/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Github-F05032?style=flat-square&logo=git&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
     </div>
